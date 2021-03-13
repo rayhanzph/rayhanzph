@@ -25,4 +25,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhanzph&" alt="rayhanzph" /></p>
 
-[![🦉 rayhanzph's github stats](https://github-readme-stats.vercel.app/api?username=rayhanzph&show_icons=true&hide_border=true&hide=issues)](https://github.com/rayhanzph)
+<p align="center"> [![🦉 rayhanzph's github stats](https://github-readme-stats.vercel.app/api?username=rayhanzph&show_icons=true&hide_border=true&hide=issues)](https://github.com/rayhanzph)</p>
