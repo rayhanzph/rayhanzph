@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/-rayhan.iot.my.id-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ryccoatika.github.io)](https://rayhan.iot.my.id)
 [![Gmail Badge](https://img.shields.io/badge/-rayhanemillul120-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rayhanemillul120@gmail.com)](mailto:rayhanemillul120@gmail.com)
 
-https://komarev.com/ghpvc/?username=rayhanzph&label=Profile%20views&color=0e75b6&style=flat
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhanzph&label=Profile%20views&color=0e75b6&style=flat" alt="rayhanzph" /> </p>
 
 - 🔭 I’m currently working on my own project
 - 🌱 I’m currently learning MERN Stack
