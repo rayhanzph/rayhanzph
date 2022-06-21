@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-rayhanemillul-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayhanemillul/)](https://www.linkedin.com/in/rayhanemillul/)
-[![Website Badge](https://img.shields.io/badge/-rayhan.iot.my.id-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ryccoatika.github.io)](https://rayhan.iot.my.id)
+[![Website Badge](https://img.shields.io/badge/-iot.my.id-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://iot.my.id/)](https://iot.my.id)
 [![Gmail Badge](https://img.shields.io/badge/-rayhanemillul120-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rayhanemillul120@gmail.com)](mailto:rayhanemillul120@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhanzph&label=Profile%20views&color=0e75b6&style=flat" alt="rayhanzph" /> </p>
